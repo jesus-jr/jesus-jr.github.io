@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://d123.com/index.html</loc>
+    <lastmod>2019-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://d123.com/images/seatse-crop-u382.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://d123.com/images/salad.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://d123.com/images/menu%20(4).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://d123.com/images/job.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://d123.com/images/chef.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://d123.com/images/feedback%20(2).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://d123.com/images/web.png</image:loc>
+    </image:image>
+  </url>
+</urlset>

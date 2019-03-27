@@ -1,0 +1,50 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="d123.com" resolutions="1x" timestamp="1553705955644">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="274386035" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="seatse-crop-u382.jpg" crc="292034332" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="salad.png" crc="3850871738" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u150-4.png" crc="3766981761" ref="index"/>
+    <file name="menu (4).png" crc="235056865" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u485-4.png" crc="3921391881" ref="index"/>
+    <file name="job.png" crc="3773436274" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u366-4.png" crc="184154209" ref="index"/>
+    <file name="chef.png" crc="4211615392" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u161-4.png" crc="4104483826" ref="index"/>
+    <file name="feedback (2).png" crc="461896941" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u440-4.png" crc="253437443" ref="index"/>
+    <file name="web.png" crc="3938350048" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u369-4.png" crc="3820373877" ref="index"/>
+    <file name="u718-4.png" crc="355203881" ref="index"/>
+    <file name="u721-4.png" crc="462561818" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4083328022" seo="true" mt="1553703170992" redirect="true"/>
+</manifest>
